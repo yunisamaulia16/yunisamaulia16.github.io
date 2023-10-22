@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-image: url('img/6.jpg');
+  background-size: cover;
+}
+
+#workexperience {
+  background-color: #adcead;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+nav {
+  background-color: #1e4628;
+}
+
+footer {
+  background-color: #1e4628;
+}
